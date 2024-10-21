@@ -13,6 +13,7 @@ namespace Test_console_CNO
             /*
              * NAAM: 
             */
+            Console.WriteLine("Mijn naam is Frederik.");
 
 
         }
